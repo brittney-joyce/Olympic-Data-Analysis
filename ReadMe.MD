@@ -7,6 +7,15 @@
   <p>-Ticket master API</p>
   <p>-StubHub API</p>
 
+  <h2> Plots </h2>
+  <ul>
+     <li>Ticket price vs Days left till event</li>
+     <li>Ticket price vs market segment</li>
+     <li>ticket price vs type of event</li>
+     <li>ticket price vs geography</li>
+     <li>ticket price vs ticket price in the past</li>
+     <li>change in ticket price vs change in gdp</li>
+   </ul>
 
 <h2> Schedule </h2>
   <p>Sunday-Tuesday: Gather data, clean data</p>
