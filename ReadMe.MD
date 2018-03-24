@@ -1,9 +1,4 @@
-<h1> Project Proposal </h1>
+<h1> Project Proposal: Tickets </h1>
 
-<ol>
-  <li>Traffic</li>
-  <li>Cancer among young</li>
-  <li>Opioid Crisis</li>
-  <li>lower income relation to disease</li>
-  <li>ticket prices</li>
-</ol>
+<h2> Questions: </h2>
+  <p> -Do prices on tickets fluctuate based on geography? team? sport? </p>
