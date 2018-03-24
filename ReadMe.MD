@@ -5,4 +5,5 @@
   <li>Cancer among young</li>
   <li>Opioid Crisis</li>
   <li>lower income relation to disease</li>
+  <li>ticket prices</li>
 </ol>
