@@ -13,5 +13,8 @@ with open('Data/sports/hockey/hockey_ticket_master_pg0.json', encoding="UTF-8") 
     data = json.loads(cf.read())
     # pprint(data['_embedded']['events'][0])
     for entry in data['_embedded']['events']:
-        print(entry['name'])
-        print("Min Ticket Price: {} \n Max Ticket Price: {}".format(entry['priceRanges'][0]['min'], entry['priceRanges'][0]['max']))
+        try:
+            print(entry['name'])
+            print("Min Ticket Price: {}\nMax Ticket Price: {}\n\n".format(entry['priceRanges'][0]['min'], entry['priceRanges'][0]['max']))
+        except KeyError:
+            continue
