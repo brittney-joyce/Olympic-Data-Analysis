@@ -32,11 +32,15 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 <p>-Historic data on amount of medals per top countries</p>
 
 
-Schedule
-Sunday-Tuesday: Gather data, clean data
+<h2>Schedule</h2>
+<p>Sunday-Tuesday: Gather data, clean data</p>
+<p>Wednesday-Thursday: Run analysis on data, develop logic</p>
+<p>Friday-Saturday: write conclusions (story telling / truth telling)</p>
+<p>Sunday-Tuesday: Polish and Present</p>
 
-Wednesday-Thursday: Run analysis on data, develop logic
-
-Friday-Saturday: write conclusions (story telling / truth telling)
-
-Sunday-Tuesday: Polish and Present
+<h2>Database Topics </h>
+<p>Brittney- Gender, Sport Type </p>
+<p>Tiffany- Health</p>
+<p>Ritter-</p>
+<p>Taron- Population</p>
+<p>Ellen- GDP</p>
