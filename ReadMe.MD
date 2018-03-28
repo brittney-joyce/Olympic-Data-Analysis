@@ -1,7 +1,7 @@
 <b><h1> Project Proposal: Tickets </h1></b>
-<img src="http://a.espncdn.com/photo/2010/0319/pg2_03182010_576.jpg">
+<img src="http://a.espncdn.com/photo/2010/0319/pg2_03182010_576.jpg"> 
 
-<h2> Team Members </h>
+<h2> Team Members: </h2>
   <p>Brittney Magsino</p>
   <p>Tiffany Gomez</p>
   <p>Ritter Gustave</p>
