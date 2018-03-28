@@ -2,11 +2,13 @@
 
 <h2> Questions: </h2>
   <p> -Do prices on tickets fluctuate based on geography? team? sport? </p>
-      -What sport is the most expensive to attend?
-      -Are ticket sales more popular on the east or west coast?
-      -Does a teams record have an impact on ticket sales?
-      -Sentiment analysis by sport, which is most popular?
-      -Sentiment analysis on most popular teams
+  <p> -What sport is the most expensive to attend?
+  <p> -What sport is the most expensive to attend?
+  <p> -Are ticket sales more popular on the east or west coast?
+  <p> -Does a teams record have an impact on ticket sales?
+  <p> -Sentiment analysis by sport, which is most popular?
+  <p> -Sentiment analysis on most popular teams
+    
 <h2> Data Sources </h2>
   <p>-Ticket master API</p>
   <p>-StubHub API</p>
