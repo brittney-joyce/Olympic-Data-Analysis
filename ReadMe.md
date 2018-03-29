@@ -40,7 +40,7 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 
 <h2>Database Topics </h2>
 <p>Brittney- Gender, Sport Type </p>
-<p>Tiffany- Health</p>
+<p>Tiffany- Age Analysis, Host Country Analysis</p>
 <p>Ritter- Sentiment Analysis vs Country Performance (for sport)</p>
 <p>Taron- Population</p>
 <p>Ellen- GDP</p>
