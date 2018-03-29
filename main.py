@@ -15,7 +15,7 @@ sentiment_dict = {
 
 }
 
-for post in api.search("Sochi Olympics"):
+for post in api.search("Olympic US Hockey"):
     data = json.dumps(post._json, sort_keys=True, indent=4, separators=(',', ': '))
     data = json.loads(data)
     print(data['text'])
