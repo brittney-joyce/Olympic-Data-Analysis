@@ -38,7 +38,7 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 <p>Friday-Saturday: write conclusions (story telling / truth telling)</p>
 <p>Sunday-Tuesday: Polish and Present</p>
 
-<h2>Database Topics </h>
+<h2>Database Topics </h2>
 <p>Brittney- Gender, Sport Type </p>
 <p>Tiffany- Health</p>
 <p>Ritter- Sentiment Analysis vs Country Performance (for sport)</p>
