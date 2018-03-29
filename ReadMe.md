@@ -1,4 +1,4 @@
-<h1><b>Project Proposal: Olympics</h1></b>
+<h1><b>Project Proposal: Olympics Analysis</h1></b>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Olympic_rings_without_rims.svg/1200px-Olympic_rings_without_rims.svg.png">
 
 <h2>Team Members:</h2>
@@ -41,6 +41,6 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 <h2>Database Topics </h>
 <p>Brittney- Gender, Sport Type </p>
 <p>Tiffany- Health</p>
-<p>Ritter-</p>
+<p>Ritter- Sentiment Analysis vs Country Performance (for sport)</p>
 <p>Taron- Population</p>
 <p>Ellen- GDP</p>
