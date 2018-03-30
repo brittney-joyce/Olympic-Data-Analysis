@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 #Importing CSV's
-summer_df = pd.read_csv ("summer.csv", encoding = "ISO-8859-1")
+summer_df = pd.read_csv ("olympic_medalists.csv", encoding = "ISO-8859-1")
 winter_df = pd.read_csv ("winter.csv", encoding = "ISO-8859-1")
 
 #Merge Summer and Winter Olympic Information
