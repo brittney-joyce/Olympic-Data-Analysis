@@ -16,5 +16,6 @@ SW_Merge = summer_df.append(winter_df)
 #Adding Country Name to Merged CSV
 
 SW_Merge['Country_Name'] = ""
-
+SW_Merge['GDP'] = ""
+SW_Merge['Population'] = ""
 #Incomplete Just here for show
