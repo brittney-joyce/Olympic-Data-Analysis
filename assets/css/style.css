@@ -13,13 +13,9 @@
   background-color: #66FCF1 !important;
 }
 
-body{
-  background-color: #0B0C10;
-}
-
 #firstSection{
   width: 100%;
-  height: 500px;
+  height: 800px;
   background-color: #66FCF1
 }
 
@@ -32,4 +28,14 @@ body{
 .card-content,
 .card-action{
   font-family: 'Cabin', sans-serif;
+}
+
+.sectiontitle{
+  font-family: 'Cabin', sans-serif;
+  padding-top: 10px;
+  margin-top: 0 !important;
+}
+
+body{
+  background-color: #0B0C10;
 }
