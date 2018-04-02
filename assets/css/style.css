@@ -14,6 +14,18 @@
   width: 100% !important;
 }
 
+.parallax-container{
+  height: 500px;
+}
+
+#hockeypic{
+  height: 800px !important;
+}
+
+#usainboltpic{
+  height: 550px !important;
+}
+
 #firstSection{
   width: 100%;
   height: 1510px;
