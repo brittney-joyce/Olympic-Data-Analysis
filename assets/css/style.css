@@ -14,6 +14,19 @@
   width: 100% !important;
 }
 
+.imgfit{
+  width: 90%;
+}
+
+.expanddown{
+  height: 1000px !important;
+}
+
+.imgfit1{
+  width: 25%;
+  margin: auto !important;
+}
+
 .parallax-container{
   height: 500px;
 }
@@ -64,7 +77,7 @@
 }
 
 #graphrow{
-  padding-left: 50px !important;
+  padding-left: 45px !important;
 }
 
 .card-content,
