@@ -14,6 +14,52 @@
   width: 100% !important;
 }
 
+
+#hockeypic{
+  height: 800px !important;
+}
+
+#materialbox-overlay{
+  background-color: #45A29E !important;
+}
+
+#usainboltpic{
+  height: 550px !important;
+}
+
+
+#firstSection{
+  width: 100%;
+  height: 1510px;
+  background-color: #45A29E !important;
+}
+
+#containerEdit{
+  width: 100% !important;
+}
+
+
+#medalEarnedimg{
+  margin-top: 20px !important;
+  width: 100%;
+}
+
+#qualityofPerformance{
+  width: 80%;
+  height: 40%;
+  /*margin-left: 100px;*/
+}
+
+#graphrow{
+  padding-left: 45px !important;
+}
+
+.secondSection{
+  width: 100%;
+  height: 700px;
+  background-color: #45A29E !important;
+}
+
 .imgfit{
   width: 90%;
 }
@@ -31,60 +77,6 @@
   height: 500px;
 }
 
-#hockeypic{
-  height: 800px !important;
-}
-
-#materialbox-overlay{
-  background-color: #45A29E !important;
-}
-
-#usainboltpic{
-  height: 550px !important;
-}
-
-.helenimgfit{
-  width: 50%;
-  margin: auto !important;
-}
-
-.helensection{
-  width: 100%;
-  height: 1500px;
-  background-color: #45A29E !important;
-}
-
-#firstSection{
-  width: 100%;
-  height: 1510px;
-  background-color: #45A29E !important;
-}
-
-#containerEdit{
-  width: 100% !important;
-}
-
-.secondSection{
-  width: 100%;
-  height: 700px;
-  background-color: #45A29E !important;
-}
-
-#medalEarnedimg{
-  margin-top: 20px !important;
-  width: 100%;
-}
-
-#qualityofPerformance{
-  width: 80%;
-  height: 40%;
-  /*margin-left: 100px;*/
-}
-
-#graphrow{
-  padding-left: 45px !important;
-}
-
 .card-content,
 .card-action{
   font-family: 'Cabin', sans-serif;
@@ -99,6 +91,17 @@
   font-family: 'Cabin', sans-serif;
   padding-top: 10px;
   margin-top: 0 !important;
+}
+
+.helenimgfit{
+  width: 50%;
+  margin: auto !important;
+}
+
+.helensection{
+  width: 100%;
+  height: 1500px;
+  background-color: #45A29E !important;
 }
 
 body{
