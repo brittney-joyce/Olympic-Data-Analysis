@@ -25,6 +25,10 @@
   background-color: #66FCF1
 }
 
+#medalEarnedimg{
+  margin-top: 20px !important;
+}
+
 .card-content,
 .card-action{
   font-family: 'Cabin', sans-serif;
