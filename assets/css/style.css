@@ -27,6 +27,13 @@
 
 #medalEarnedimg{
   margin-top: 20px !important;
+  width: 100%;
+}
+
+#qualityofPerformance{
+  width: 80%;
+  height: 40%;
+  /*margin-left: 100px;*/
 }
 
 #graphrow{
