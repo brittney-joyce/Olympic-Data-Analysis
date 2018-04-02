@@ -12,5 +12,4 @@ winter_df = pd.read_csv ("winter.csv", encoding = "ISO-8859-1")
 #Merge Summer and Winter Olympic Information
 SW_Merge = summer_df.append(winter_df)
 
-SW_Merge.to_csv("Summer_and_Winter", encoding="utf-8", index=False)
-#Incomplete Just here for show
+SW_Merge.to_csv("Summer_and_Winter", encoding="ISO-8859-1", index=False)
