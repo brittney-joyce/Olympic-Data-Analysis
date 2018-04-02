@@ -22,6 +22,10 @@
   height: 800px !important;
 }
 
+#materialbox-overlay{
+  background-color: #45A29E !important;
+}
+
 #usainboltpic{
   height: 550px !important;
 }
