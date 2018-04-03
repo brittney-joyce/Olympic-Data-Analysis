@@ -1,6 +1,7 @@
 window.onload = evt => {
   // Testing link
   console.log('System Ready');
+  console.log("Go Swiss Hockey! #77 Gustave, Allons-y!");
 
   // Execute code
   let options = {
