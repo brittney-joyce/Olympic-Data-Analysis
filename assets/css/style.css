@@ -97,13 +97,19 @@
 }
 
 .helenimgfit{
-  width: 50%;
+  width: 80%;
   margin: auto !important;
+}
+
+.brittneysection{
+  width: 100%;
+  height: 2000px;
+  background-color: #45A29E !important;
 }
 
 .helensection{
   width: 100%;
-  height: 1600px;
+  height: 1100px;
   background-color: #45A29E !important;
 }
 
