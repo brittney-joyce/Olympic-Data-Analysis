@@ -13,11 +13,10 @@
 <p>-Does GDP have any affect on winning teams?</p>
 <p>-Does a country's population have any affect on medal count?</p>
 <p>-Is there a trend of specific countries winning in certain events?</p>
-<p>-Does geoegraphy play a factor on specific events (ie Jamaican bobsled team lol)</p>
+<p>-Does geography play a factor on specific events</p>
 <p>-Which top counties do better in Winter vs Summer Olympics? </p>
 <p>-Are there any countries that have yet to win a medal?</p>
 <p>-Which Olympic athlete has won the most medals?</p>
-<p>-Country's Obsesity rate to win rate</p>
 <p>-Continent Analysis to win rate</p>
 
 <h2>Data Sources</h2>
@@ -26,7 +25,6 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 <h2>Plots & Graphs</h2>
 <p>-Country's GDP vs Medal Count</p>
 <p>-Population vs Medal Count</p>
-<p>-Obesity rate to win rate</p>
 <p>-Summer vs Winter Olympic win rate for top countries</p>
 <p>-Teams with the most medals</p>
 <p>-Historic data on amount of medals per top countries</p>
@@ -40,7 +38,7 @@ https://www.kaggle.com/the-guardian/olympic-games/data
 
 <h2>Database Topics </h2>
 <p>Brittney- Gender, Sport Type </p>
-<p>Tiffany- Country Performance Summer Vs Winter, Host Country Analysis</p>
+<p>Tiffany- Country Performance Summer Vs Winter</p>
 <p>Ritter- Country Overall Progress and Overall Performance Analysis</p>
 <p>Taron- Population</p>
 <p>Ellen- GDP</p>
