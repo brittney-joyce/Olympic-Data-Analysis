@@ -19,8 +19,7 @@ window.onload = evt => {
 }
 // Materialize non jquery dependancy didn't work, soooo I got screwed using this code
 // Used the following instead
-
-
+// Was able to get materialize to work without jQuery dependency
 
 // Working JQuery
 // $(document).ready(function(){
