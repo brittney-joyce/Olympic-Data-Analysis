@@ -13,6 +13,7 @@
 // Used the following instead
 
 $(document).ready(function(){
+  console.log("Go Swiss Hockey! #77 Gustave, Allons-y!");
   $('.parallax').parallax();
   $('.materialboxed').materialbox();
   $('.scrollspy').scrollSpy();
