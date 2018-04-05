@@ -8,7 +8,8 @@
 <p>Taron Hakobyan</p>
 <p>Ellen Chen</p>
 
-<h1>Visualization: https://brittney-joyce.github.io/Group_Project1/</h1>
+<h1>Visualization:</h1>
+<p>https://brittney-joyce.github.io/Group_Project1/</p>
 
 
 <h1>Questions:</h1>
