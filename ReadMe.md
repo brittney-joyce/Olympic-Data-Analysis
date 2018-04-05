@@ -8,6 +8,9 @@
 <p>Taron Hakobyan</p>
 <p>Ellen Chen</p>
 
+<h1>Visualization: https://brittney-joyce.github.io/Group_Project1/</h1>
+
+
 <h1>Questions:</h1>
 <p>-Which country has the most Olympic medals?</p>
 <p>-Does GDP have any affect on winning teams?</p>
